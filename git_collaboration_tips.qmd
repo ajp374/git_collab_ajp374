@@ -1,5 +1,5 @@
 ---
-title: "Git COllab Tips"
+title: "Git Collab Tips"
 format: html
 author: "Anna Poulton, Emily Richardson"
 ---
