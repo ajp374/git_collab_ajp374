@@ -1,5 +1,5 @@
 ---
-title: "Git COllab Tips"
+title: "Git Collab Tips"
 format: html
 author: "Anna Poulton, Emily Richardson"
 ---
@@ -23,7 +23,8 @@ Be punctual :)
 
 ### Merge Conflict: Owner Resolves
 
-changes here
+* changes here
+* Emily is editing this line without communicating about my intentions first.
 
 ### Merge Conflict: Collaborator Resolves
 
