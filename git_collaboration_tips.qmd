@@ -23,7 +23,7 @@ Be punctual :)
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+changes here
 
 ### Merge Conflict: Collaborator Resolves
 
