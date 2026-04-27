@@ -13,9 +13,11 @@ author: "Anna Poulton, Emily Richardson"
 * :)
 
 
-### Tips: <collaborator's name here>
+### Tips: Emily Richardson
 
-<Collaborator adds their tips here!>
+Be kind
+Respect everyone's opinions
+Be punctual :)
 
 ## How to Create a Merge Conflict 
 
