@@ -7,9 +7,11 @@ author: "Anna Poulton, Emily Richardson"
 
 ## Git Collaboration Tips
 
-### Tips: <owner's name here>
+### Tips: <owner's Anna Poulton>
 
-<Owner adds their tips here!>
+* Tip 1
+* :)
+
 
 ### Tips: <collaborator's name here>
 
