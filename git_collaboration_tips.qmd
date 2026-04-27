@@ -23,7 +23,7 @@ Be punctual :)
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+Emily is editing this line without communicating about my intentions first.
 
 ### Merge Conflict: Collaborator Resolves
 
