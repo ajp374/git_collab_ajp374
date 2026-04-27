@@ -27,7 +27,7 @@ Emily is editing this line without communicating about my intentions first.
 
 ### Merge Conflict: Collaborator Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - OWNER commits-pulls-pushes first>
+Let's try it again!
 
 ## Summary: How to Avoid Merge Conflicts
 
